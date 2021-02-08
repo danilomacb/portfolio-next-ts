@@ -1,0 +1,10 @@
+@import "./colors.scss";
+
+#container {
+  display: block;
+  max-width: 100%;
+  background-color: $black1;
+  margin-left: 300px;
+  text-align: center;
+  padding: 60px 0 60px 0;
+}
